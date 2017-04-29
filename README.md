@@ -58,7 +58,11 @@ crud operation
 When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.
 
 ## Contact
+
 > Gmail: raihantheprogrammer@gmail.com
+
 > Facebook: https://www.facebook.com/TheProgrammingThinker
+
 > Linkedin: https://www.linkedin.com/in/theprogrammingthinker/
+
 > Twitter: https://twitter.com/edition_raihan
